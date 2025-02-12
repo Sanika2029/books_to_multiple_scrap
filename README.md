@@ -22,7 +22,7 @@ This project is a web scraper designed to extract information about books from m
 
 
 ## BOOKS TO SCRAPE
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Sanika2029/books_to_multiple_scrap/blob/main/website%20preview.png)
 
 Screen view
 ## 🔗 Links
